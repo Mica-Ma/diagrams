@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T06:10:08.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="BLQ8NuT01NjufBCsjHsd" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T09:32:42.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lY_bibsBWBbuRkoK8-sM" version="15.7.3" type="github">
   <diagram id="mrtA_bh7W3MZyRI0lBSU" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HNSjOoolBvw5SKJHr6Ws-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HNSjOoolBvw5SKJHr6Ws-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="90" width="610" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="HNSjOoolBvw5SKJHr6Ws-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HNSjOoolBvw5SKJHr6Ws-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HNSjOoolBvw5SKJHr6Ws-3" value="micro-card" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HNSjOoolBvw5SKJHr6Ws-3" value="micro-card" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="200" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HNSjOoolBvw5SKJHr6Ws-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;主应用&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNSjOoolBvw5SKJHr6Ws-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HNSjOoolBvw5SKJHr6Ws-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HNSjOoolBvw5SKJHr6Ws-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;微应用&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
