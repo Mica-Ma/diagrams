@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:58:34.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="YIDcdDPyd7vbgrjTgzQ1" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T04:59:02.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_kFdd5mTOTPwlmOtIhK2" version="17.1.1" type="github">
   <diagram id="GdhvUFtvC-fQR2Oy1b_Q" name="Page-1">
     <mxGraphModel dx="901" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxNG_dInno-5pwJ3HLSa-5" value="设配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-5" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pxNG_dInno-5pwJ3HLSa-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.373;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-3" target="pxNG_dInno-5pwJ3HLSa-5">
