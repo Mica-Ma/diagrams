@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T01:59:40.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="AGsWehGwxqgGZDGznT6a" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:04:45.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9xCsJaYoIgwTJ5F78gum" version="17.1.1" type="github">
   <diagram id="GdhvUFtvC-fQR2Oy1b_Q" name="Page-1">
-    <mxGraphModel dx="1183" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,9 @@
           <mxGeometry x="0.008" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-3" target="pxNG_dInno-5pwJ3HLSa-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxNG_dInno-5pwJ3HLSa-3" value="220v电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="200" width="80" height="60" as="geometry" />
@@ -137,6 +140,17 @@
         </mxCell>
         <mxCell id="pxNG_dInno-5pwJ3HLSa-29" value="开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="140" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-37" target="pxNG_dInno-5pwJ3HLSa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-40" value="usb&amp;nbsp; 5v&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-39">
+          <mxGeometry x="-0.5245" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-37" value="小米插座" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="200" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
