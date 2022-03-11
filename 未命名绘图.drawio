@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T02:20:29.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.3.5" etag="6Rj2pXtm213RA2uNdoPT" type="github"><diagram id="GdhvUFtvC-fQR2Oy1b_Q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T01:59:40.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="AGsWehGwxqgGZDGznT6a" version="17.1.1" type="github">
+  <diagram id="GdhvUFtvC-fQR2Oy1b_Q" name="Page-1">
+    <mxGraphModel dx="1183" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-2" value="自锁继电器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-3" target="pxNG_dInno-5pwJ3HLSa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-34" value="220v ～ +" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-30">
+          <mxGeometry x="0.008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-3" value="220v电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="200" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-4" value="220v ~&amp;nbsp; +&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-3" target="pxNG_dInno-5pwJ3HLSa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-5" value="设配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="290" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.373;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-3" target="pxNG_dInno-5pwJ3HLSa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-7" value="_" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-6">
+          <mxGeometry x="-0.1182" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-8" value="220v ~ -&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-6">
+          <mxGeometry x="-0.1214" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-2" target="pxNG_dInno-5pwJ3HLSa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="389" y="260" />
+              <mxPoint x="637" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.173;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.48;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-5" target="pxNG_dInno-5pwJ3HLSa-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="420" />
+              <mxPoint x="413" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-11" value="5v +&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-10">
+          <mxGeometry x="-0.237" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-12" value="5v -&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;exitX=0.373;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.82;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-5" target="pxNG_dInno-5pwJ3HLSa-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="450" />
+              <mxPoint x="429" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-13" value="信号线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-14" value="自复位开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.183;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-14" target="pxNG_dInno-5pwJ3HLSa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="450" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.4;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.317;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-14" target="pxNG_dInno-5pwJ3HLSa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-20" value="默认低电平，关机高电平" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-21" value="&lt;span&gt;5v电源&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="350" as="sourcePoint" />
+            <mxPoint x="329" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-27" value="5v -&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-24">
+          <mxGeometry x="0.0235" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-21" target="pxNG_dInno-5pwJ3HLSa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-26" value="5v +&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pxNG_dInno-5pwJ3HLSa-25">
+          <mxGeometry x="0.0706" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxNG_dInno-5pwJ3HLSa-29" target="pxNG_dInno-5pwJ3HLSa-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="125.24137931034483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxNG_dInno-5pwJ3HLSa-29" value="开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="140" width="81" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
